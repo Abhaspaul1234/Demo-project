@@ -1,4 +1,4 @@
 # Demo-project
 This is my first Git Repository.
 <br>
-Author - Abhas Paul(sonu)
+Author - Abhas Paul
